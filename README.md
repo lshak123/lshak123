@@ -36,11 +36,6 @@ Hello, I'm SeungHak Lee
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
 
-
-#### Platform
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-<br/>
-
 # Career
 | 활동기간 | 학교 | 전공 | 이력 | 구분 |
 | :------: | :------: | :------: | :------: | :------: |
