@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=200&section=header&text=LEE%SEUNGHAK%20's%20GitHub&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=LEE%SEUNGHAK%20's%20GitHub&fontSize=60&animation=fadeIn)
 
 
 ## Hi There 👋
