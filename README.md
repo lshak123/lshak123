@@ -60,6 +60,7 @@ Hello, I'm SeungHak Lee
 |[전공] 텍스트데이터분석|무선 이어폰 리뷰 크롤링을 통한 소비자 성향 분석|NLP|정리중|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS|정리중|
 |[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0_2022.06)|
+|[전공] 시각인공지능|항공이미지활용 건물변화탐지 프로젝트|CV|s|
 |[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|진행중|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|진행중|
 
@@ -72,5 +73,4 @@ Hello, I'm SeungHak Lee
 |[DACON]| 제주도 도로 교통량 예측 AI 경진대회|ML|21위(상위 3%)|정리중|
 |[제주관광공사]|제주 스마트관광 빅데이터 해커톤|ML/QGIS|본선진출|정리중|
 |[롯데멤버스]|제7회 롯데멤버스 빅데이터 경진대회|ML||정리중|
-|[MACON]|2022국방 AI 경진대회|DL(Segmentation)||정리중|
 |[한국가스공사]|빅스타 경진대회<br/>(장기천연가스 수요 예측)|DL(Time Series Forecasting)/ML|특별상|정리중|
