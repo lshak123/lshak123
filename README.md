@@ -6,6 +6,8 @@ Hello, I'm SeungHak Lee
 
 <br/>
 
+***
+
 ## Contact
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100007883883793"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007883883793"/></a>&nbsp
@@ -15,6 +17,7 @@ Hello, I'm SeungHak Lee
 
 <br/>
 
+***
 
 ## Technical Skills 
 #### Languages & Development Tools
@@ -36,6 +39,8 @@ Hello, I'm SeungHak Lee
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
 
+***
+
 #### Career
 | 활동기간 | 학교 | 전공 | 이력 | 구분 |
 | :------: | :------: | :------: | :------: | :------: |
@@ -44,6 +49,8 @@ Hello, I'm SeungHak Lee
 | 2020.10~2021.03 | 국민대학교 | AI빅데이터융합경영학과 | 비상대책위원회 | 총무부장 |
 | 2021.12~2022.12 | 국민대학교 | AI빅데이터융합경영학과 | 제 1대 학생회 AI:M | 총무부장 |
 | 2023.1~ | 국민대학교 | AI빅데이터융합경영학과 | 준학회 X:AI | 운영진 |
+
+***
 
 #### 교내
 |주관|대회(프로젝트)명|분야|링크|
@@ -56,6 +63,7 @@ Hello, I'm SeungHak Lee
 |[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|진행중|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|진행중|
 
+***
 
 #### 교외
 |주관|대회(프로젝트)명|분야|순위(기타)|링크|
