@@ -8,7 +8,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-## Contact
+## 🙍🏻‍♂️Contact
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100007883883793"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007883883793"/></a>&nbsp
   <a href="https://www.instagram.com/lees_hak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lees_hak/"/></a>&nbsp
@@ -19,7 +19,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-## Technical Skills 
+## 🛠Technical Skills 
 #### Languages & Development Tools
 <p align="center"> Techs that I've used at least once </p>
 
@@ -41,7 +41,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-#### Career
+#### 📝Career
 | 활동기간 | 학교 | 전공 | 이력 | 구분 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2018.02 | 장충고등학교(서울) | 이공계열 | 고등학교 | 졸업 |
@@ -52,7 +52,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-#### Projects
+#### 💻Projects
 |주관|대회(프로젝트)명|분야|링크|
 |------|---|---|---|
 |[전공] 분석프로그래밍|L사의 고객 세분화를 통한 프로모션 제안|데이터 분석|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%B0%B1%ED%99%94%EC%A0%90%20%EA%B3%A0%EA%B0%9D%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%8B%9C%202021.06)|
@@ -66,7 +66,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-#### Competition
+#### 🏆Competition
 |주관|대회(프로젝트)명|분야|순위(기타)|링크|
 |------|---|---|---|---|
 |[DACON]| SW중심대학 공동 AI 경진대회(예선)|ML|최종7위|정리중|
