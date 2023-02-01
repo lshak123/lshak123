@@ -53,7 +53,7 @@ Hello, I'm SeungHak Lee
 ***
 
 #### 💻Projects
-|주관|대회(프로젝트)명|분야|링크|
+|주관|대회(프로젝트)명|분야|비고|
 |------|---|---|---|
 |[전공] 분석프로그래밍|L사의 고객 세분화를 통한 프로모션 제안|데이터 분석|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%B0%B1%ED%99%94%EC%A0%90%20%EA%B3%A0%EA%B0%9D%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%8B%9C%202021.06)|
 |[전공] 머신러닝|Kaggle Competition(설문 응답 여부 예측)|ML|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EC%9D%91%EB%8B%B5%20%EC%97%AC%EB%B6%80%20%EC%98%88%EC%B8%A1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202021.12)|
@@ -67,7 +67,7 @@ Hello, I'm SeungHak Lee
 ***
 
 #### 🏆Competition
-|주관|대회(프로젝트)명|분야|순위(기타)|링크|
+|주관|대회(프로젝트)명|분야|순위(기타)|비고|
 |------|---|---|---|---|
 |[DACON]| SW중심대학 공동 AI 경진대회(예선)|ML|최종7위|정리중|
 |[DACON]| 제주도 도로 교통량 예측 AI 경진대회|ML|21위(상위 3%)|정리중|
