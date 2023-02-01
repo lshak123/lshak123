@@ -48,7 +48,7 @@ Hello, I'm SeungHak Lee
 #### 교내
 |주관|대회(프로젝트)명|분야|링크|
 |------|---|---|---|
-|[전공] 분석프로그래밍|L사의 고객 세분화를 통한 프로모션 제안|데이터 분석|[LINK](https://github.com/minsik1349/Major_Project/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)|
+|[전공] 분석프로그래밍|L사의 고객 세분화를 통한 프로모션 제안|데이터 분석|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EB%B0%B1%ED%99%94%EC%A0%90%20%EA%B3%A0%EA%B0%9D%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%8B%9C%202021.06)|
 |[전공] 머신러닝|Kaggle Competition(설문 응답 여부 예측)|ML|?|
 |[전공] 텍스트데이터분석|무선 이어폰 리뷰 크롤링을 통한 소비자 성향 분석|NLP|정리중|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS|정리중|
