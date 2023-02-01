@@ -59,7 +59,7 @@ Hello, I'm SeungHak Lee
 |[전공] 머신러닝|Kaggle Competition(설문 응답 여부 예측)|ML|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC%20%EC%9D%91%EB%8B%B5%20%EC%97%AC%EB%B6%80%20%EC%98%88%EC%B8%A1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202021.12)|
 |[전공] 텍스트데이터분석|무선 이어폰 리뷰 크롤링을 통한 소비자 성향 분석|NLP|정리중|
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS|정리중|
-|[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|정리중|
+|[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0_2022.06)|
 |[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|진행중|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|진행중|
 
