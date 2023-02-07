@@ -10,6 +10,7 @@ Hello, I'm SeungHak Lee
 
 ## 🙍🏻‍♂️Contact
 <p align="center">
+  <a href="https://www.notion.so/Seunghak-Lee-6cf687a1f3614e62ab74c793c7a0f01e"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Seunghak-Lee-6cf687a1f3614e62ab74c793c7a0f01e"/></a>&nbsp
   <a href="https://www.facebook.com/profile.php?id=100007883883793"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007883883793"/></a>&nbsp
   <a href="https://www.instagram.com/lees_hak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lees_hak/"/></a>&nbsp
   <a href="mailto:dltmdgkr95@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgkr95@gmail.com"/></a>&nbsp
