@@ -84,4 +84,8 @@ Hello, I'm SeungHak Lee
 |2022|ADsP|한국데이터산업진흥원|영구|
 |2021|SQLD|한국데이터산업진흥원|영구|
 |2018|디지털정보활용능력(DIA)|정보통신기술자격검정(KAIT)|영구|
+|2023|빅데이터분석기사(필기)|한국데이터산업진흥원|-|
+
+## Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdgkr95)](https://solved.ac/dltmdgkr95/)
 
