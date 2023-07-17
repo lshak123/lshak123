@@ -81,7 +81,7 @@ Hello, I'm SeungHak Lee
 
 ***
 
-## 📜 ertificate
+## 📜 Certificate
 |취득 연도|자격증|주관|유효기간|
 |-|-|-|-|
 |2022|ADsP|한국데이터산업진흥원|영구|
