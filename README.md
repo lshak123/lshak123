@@ -63,7 +63,7 @@ Hello, I'm SeungHak Lee
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS||
 |[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0_2022.06)|
 |[전공] 시각인공지능|항공이미지활용 건물변화탐지 프로젝트|CV|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%ED%95%AD%EA%B3%B5%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%9C%EC%9A%A9%20%EA%B1%B4%EB%AC%BC%EB%B3%80%ED%99%94%ED%83%90%EC%A7%80)|
-|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|논문화 진행중 <br/>[LINK](https://github.com/lshak123/Projects/blob/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20Video%20Frame%20Interpolation%20%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EB%B2%95%20%EC%97%B0%EA%B5%AC_2022.09~)|
+|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|논문화 진행중 <br/>[LINK](https://github.com/lshak123/VideoFrameInterpolation_Dance)|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|논문 투고 완료 <br/>[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
 |캡스톤디자인:추천시스템|부가 정보를 활용한 선형 비선형 구조 기반 추천시스템|RS|논문화 진행중 <br/>|
 
