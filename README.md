@@ -63,7 +63,7 @@ Hello, I'm SeungHak Lee
 |[전공] 공간데이터분석|홍대&상수 상권 분석을 통한 생존 전략|QGIS||
 |[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0_2022.06)|
 |[전공] 시각인공지능|항공이미지활용 건물변화탐지 프로젝트|CV|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%ED%95%AD%EA%B3%B5%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%9C%EC%9A%A9%20%EA%B1%B4%EB%AC%BC%EB%B3%80%ED%99%94%ED%83%90%EC%A7%80)|
-|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|논문화 진행중 <br/>[LINK](https://github.com/lshak123/VideoFrameInterpolation_Dance)|
+|[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|투고 완료 <br/>[LINK](https://github.com/lshak123/VideoFrameInterpolation_Dance)|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
 |캡스톤디자인:추천시스템|부가 정보를 활용한 선형 비선형 구조 기반 추천시스템|RS|게재 완료|
 |[교내 학회] D&A|Video Inpainting을 통한 영상 객체 제거 프로젝트|CV/VIDEO|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
@@ -80,7 +80,7 @@ Hello, I'm SeungHak Lee
 |[한국가스공사]|빅스타 경진대회<br/>(장기천연가스 수요 예측)|DL(Time Series Forecasting)/ML|특별상|[LINK](https://github.com/lshak123/Competition/tree/main/%5B%ED%95%9C%EA%B5%AD%EA%B0%80%EC%8A%A4%EA%B3%B5%EC%82%AC%5D%20%EC%9E%A5%EA%B8%B0%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4%20%EC%88%98%EC%9A%94%20%EC%98%88%EC%B8%A1_2022.12)|
 |[DACON]|HD현대 AI Challenge|ML|2위|
 |[DACON]|대구 교통사고 피해 예측 AI 경진대회|ML|33위(상위 4%)|
-|[한국장애인재단]|2023 장애 플러스 기술 메이커톤|ML||
+|[한국장애인재단]|2023 장애 플러스 기술 메이커톤|ML|입선|
 |[DACON]|데이크루 6기|ML|2위|
 |[NIA]|2023 빅콘테스트 비정형데이터부문|DL(Pose Estimation, Object Tracking), ML|최우수상(1위)|
 
