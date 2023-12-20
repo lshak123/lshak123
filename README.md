@@ -64,8 +64,9 @@ Hello, I'm SeungHak Lee
 |[전공] 과학과 소프트웨어적 사고|pygame 모듈을 통한 게임 만들기|PYGAME|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%EA%B2%8C%EC%9E%84%EB%A7%8C%EB%93%A4%EA%B8%B0_2022.06)|
 |[전공] 시각인공지능|항공이미지활용 건물변화탐지 프로젝트|CV|[LINK](https://github.com/lshak123/Projects/tree/main/%5B%EA%B5%90%EB%82%B4%5D%20%ED%95%AD%EA%B3%B5%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%99%9C%EC%9A%A9%20%EA%B1%B4%EB%AC%BC%EB%B3%80%ED%99%94%ED%83%90%EC%A7%80)|
 |[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|논문화 진행중 <br/>[LINK](https://github.com/lshak123/VideoFrameInterpolation_Dance)|
-|[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|논문 투고 완료 <br/>[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
-|캡스톤디자인:추천시스템|부가 정보를 활용한 선형 비선형 구조 기반 추천시스템|RS|게재 확정 <br/>|
+|[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
+|캡스톤디자인:추천시스템|부가 정보를 활용한 선형 비선형 구조 기반 추천시스템|RS|게재 완료|
+|[교내 학회] D&A|Video Inpainting을 통한 영상 객체 제거 프로젝트|CV/VIDEO|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
 
 ***
 
@@ -77,7 +78,11 @@ Hello, I'm SeungHak Lee
 |[제주관광공사]|제주 스마트관광 빅데이터 해커톤|ML/QGIS|본선진출|[LINK](https://github.com/lshak123/Competition/tree/main/%EC%A0%9C%EC%A3%BC%20%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B4%80%EA%B4%91%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%95%B4%EC%BB%A4%ED%86%A4)|
 |[롯데멤버스]|제7회 롯데멤버스 빅데이터 경진대회|ML||[LINK](https://github.com/lshak123/Competition/tree/main/%5B%EB%A1%AF%EB%8D%B0%EB%A9%A4%EB%B2%84%EC%8A%A4%5D%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_2022.08)|
 |[한국가스공사]|빅스타 경진대회<br/>(장기천연가스 수요 예측)|DL(Time Series Forecasting)/ML|특별상|[LINK](https://github.com/lshak123/Competition/tree/main/%5B%ED%95%9C%EA%B5%AD%EA%B0%80%EC%8A%A4%EA%B3%B5%EC%82%AC%5D%20%EC%9E%A5%EA%B8%B0%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4%20%EC%88%98%EC%9A%94%20%EC%98%88%EC%B8%A1_2022.12)|
-|[DACON]|합성데이터 기반 객체 탐지 AI 경진대회|CV, Object Detection|80위(상위 10%)||
+|[DACON]|HD현대 AI Challenge|ML|2위|
+|[DACON]|대구 교통사고 피해 예측 AI 경진대회|ML|33위(상위 4%)|
+|[한국장애인재단]|2023 장애 플러스 기술 메이커톤|ML||
+|[DACON]|데이크루 6기|ML|2위|
+|[NIA]|2023 빅콘테스트 비정형데이터부문|DL(Pose Estimation, Object Tracking), ML|최우수상(1위)|
 
 ***
 
@@ -87,7 +92,7 @@ Hello, I'm SeungHak Lee
 |2022|ADsP|한국데이터산업진흥원|영구|
 |2021|SQLD|한국데이터산업진흥원|영구|
 |2018|디지털정보활용능력(DIA)|정보통신기술자격검정(KAIT)|영구|
-|2023|빅데이터분석기사(필기)|한국데이터산업진흥원|-|
+|2023|빅데이터분석기사사|한국데이터산업진흥원|영구|
 
 ## Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdgkr95)](https://solved.ac/dltmdgkr95/)
