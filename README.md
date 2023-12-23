@@ -66,7 +66,8 @@ Hello, I'm SeungHak Lee
 |[전공] AI빅데이터프로젝트:<br/>캡스톤디자인Ⅱ|Video Frame Interpolation task<br/>성능 향상을 위한 기법 연구|CV|투고 완료 <br/>[LINK](https://github.com/lshak123/VideoFrameInterpolation_Dance)|
 |[교내 학회] D&A|시각장애인을 위한 안내 서비스|CV/NLP/음성|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
 |캡스톤디자인:추천시스템|부가 정보를 활용한 선형 비선형 구조 기반 추천시스템|RS|게재 완료|
-|[교내 학회] D&A|Video Inpainting을 통한 영상 객체 제거 프로젝트|CV/VIDEO|[LINK](https://github.com/lshak123/Projects/tree/main/%5BDL%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%88%EB%82%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4_2022.07~)|
+|[교내 학회] D&A|Video Inpainting을 통한 영상 객체 제거 프로젝트|CV/VIDEO||
+|[교내 학회] X:AI|논문 수식 OCR 프로젝트|CV/PyQt5|[LINK](https://github.com/X-AI-eXtension-Artificial-Intelligence/4th-ADV-SESSION/tree/main/TeamCV2)|
 
 ***
 
