@@ -87,7 +87,7 @@ Hello, I'm SeungHak Lee
 |[DACON]|대구 교통사고 피해 예측 AI 경진대회|ML|33위(상위 4%)|
 |[한국장애인재단]|2023 장애 플러스 기술 메이커톤|ML|입선|
 |[DACON]|데이크루 6기|ML|2위|
-|[빅콘테스트]|2023 빅콘테스트 비정형데이터부문|DL(Pose Estimation, Object Tracking), ML|최우수상(NIA원장상)|[LINK][(https://github.com/lshak123/Competition/tree/main/%5B%ED%95%9C%EA%B5%AD%EA%B0%80%EC%8A%A4%EA%B3%B5%EC%82%AC%5D%20%EC%9E%A5%EA%B8%B0%EC%B2%9C%EC%97%B0%EA%B0%80%EC%8A%A4%20%EC%88%98%EC%9A%94%20%EC%98%88%EC%B8%A1_2022.12)](https://github.com/lshak123/2023-BigContest)|
+|[빅콘테스트]|2023 빅콘테스트 비정형데이터부문|DL(Pose Estimation, Object Tracking), ML|최우수상(NIA원장상)|[LINK][https://github.com/lshak123/2023-BigContest]|
 
 ***
 
